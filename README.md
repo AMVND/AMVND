@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AMVND
-- 👀 I’m interested in anime/manga/light novels
-- 🌱 I’m currently learning python, HTML and arduino
-- 💞️ I’m looking to collaborate on arduino project and HTML
-- 📫 Contact at: anivnmusicvideo@gmail.com
+# 👋 Hi, I’m Do Ba Toan
+![This is an image](https://imgur.com/YqYmDg1.png)  
+## Follow me at: 
+[![Twitter: ND 素人](https://img.shields.io/twitter/follow/nd_amv?style=social)](https://twitter.com/nd_amv)
+<br>
+[![GitHub AMVND](https://img.shields.io/github/followers/AMVND?label=follow&style=social)](https://github.com/AMVND)
 
 <!---
 AMVND/AMVND is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
