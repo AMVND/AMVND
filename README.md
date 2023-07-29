@@ -67,3 +67,5 @@
 AMVND/AMVND is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## README统计
+![统计](https://moe-counter.glitch.me/get/@AMVND?theme=elbooru)
