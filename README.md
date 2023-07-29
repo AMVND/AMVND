@@ -3,11 +3,15 @@
 <head>
 </head>
 <body>
+
+![统计](https://count.getloli.com/get/@AMVND?theme=elbooru)
+
 <h1>About me </h1>
 <p>- My full name is : Do Ba Toan </p>
 <p>- DOB :  12, Jan ,2001</p>
 <p>- Favorite : Anime/Manga/LightNovel </p>
 <p>- I also playing game: Genshin Impact, Honkai Impact 3, Blue Archive, ... any gacha game </p>
+	
 <table>
 	<tr><td colspan = 3 align="center"><strong>My skill at</strong></td> </tr>
 	<tr align='center'>
@@ -67,5 +71,4 @@
 AMVND/AMVND is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## README统计
-![统计](https://moe-counter.glitch.me/get/@AMVND?theme=elbooru)
+
