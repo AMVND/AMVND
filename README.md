@@ -4,7 +4,7 @@
 </head>
 <body>
 
-![统计](https://count.getloli.com/get/@AMVND?theme=elbooru)
+![统计](https://count.getloli.com/get/@AMVND?theme=gelbooru)
 
 <h1>About me </h1>
 <p>- My full name is : Do Ba Toan </p>
